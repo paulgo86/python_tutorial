@@ -1,2 +1,5 @@
 # python_tutorial
-Start At 20-08-09 00:45
+This repository created for my practice of python tutorial 
+to improve my python basic skill.
+
+Source : https://github.com/Akuli/python-tutorial
